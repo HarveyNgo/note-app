@@ -1,0 +1,52 @@
+[
+    {
+        "id":"51859466-28ca-4569-9440-57043a58eced",
+        "name":"Work and study",
+        "icon":"workStudy",
+        "avatar":"workStudy",
+        "items":[
+            {
+                "id":"0b80d73c-f8ed-4a94-aa05-5a1edcb6b8c9",
+                "title":"Overview of basic computer networking knowledge",
+                "createdDate":"2023-01-26T10:36:40.968Z"
+            },
+            {
+                "id":"a4bf17e8-dddf-4cea-b048-a4314a55bbae",
+                "title":"How to calculate float multiplication and division in JavaScript?",
+                "createdDate":"2023-10-02T08:16:40.968Z"
+            }
+        ]
+    },
+    {
+        "id":"6f9800df-30b9-4481-ae13-9d82d32ed836",
+        "name":"Life",
+        "icon":"life",
+        "avatar":"life",
+        "items":[
+            {
+                "id":"f030cbc6-db65-4abb-99fc-754bdaf8d2d9",
+                "title":"Pan-fried chicken breast with vegetable salad",
+                "createdDate":"2024-01-02T07:16:40.968Z"
+            },
+            {
+                "id":"5ecb4b22-ecc0-460b-b440-8b5a3a833242",
+                "title":"How to make a cup of tea?",
+                "createdDate":"2024-09-02T09:26:40.968Z"
+            }
+        ]
+    },
+    {
+        "id":"da102f64-247d-46f6-9a20-36d7427dc9f4",
+        "name":"Health Wellness",
+        "icon":"healthWellness",
+        "avatar":"healthWellness",
+        "items":[
+            {
+                "id":"deb29bfe-42de-4e09-a284-3b38240d418b",
+                "title":"Maintain sufficient daily water intake",
+               "createdDate":"2023-07-05T01:06:40.968Z"
+            }       
+        ]
+    }
+
+]
